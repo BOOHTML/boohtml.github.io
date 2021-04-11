@@ -5,4 +5,4 @@ subtitle: 커다란 달이 뜨는 밤, 비명소리가 들리고 아침이 떠�
 permalink: /encrypted_open/
 ---
 
-{% include_relative testlog-protected.html %}
+{% include_relative Chat Log for moon.html %}

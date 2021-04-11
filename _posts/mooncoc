@@ -1,7 +1,8 @@
-layout	title	subtitle	permalink
-minimal
-암호화 포스트
-암호화된 공개 포스트입니다.
-/encrypted_open/
-{% include_relative testlog-protected.html %}
+---
+layout: minimal
+title: 달의 비명
+subtitle: 커다란 달이 뜨는 밤, 비명소리가 들리고 아침이 떠오르는 날, 뜯어먹힌 시체들이 거리에 널려있다.
+permalink: /encrypted_open/
+---
 
+{% include_relative testlog-protected.html %}
